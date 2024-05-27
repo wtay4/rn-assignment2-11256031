@@ -1,0 +1,5 @@
+![Base screenshot ](images/photo_2_2024-05-27_14-54-52.jpg)
+![Colour change screenshot](images/photo_3_2024-05-27_14-54-52.jpg)
+![Text change screenshot](images/photo_4_2024-05-27_14-54-52.jpg)
+![Font size 24 screenshot](images/photo_5_2024-05-27_14-54-52.jpg)
+![Boldened text screenshot](images/photo_1_2024-05-27_14-54-52.jpg)
